@@ -1,4 +1,4 @@
-function Cat(){
+export function Cat(){
     return(
         <>
         <p>
